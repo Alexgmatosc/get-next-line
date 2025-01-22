@@ -6,7 +6,7 @@
 /*   By: alematos <alematos@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/02 20:23:02 by alematos          #+#    #+#             */
-/*   Updated: 2024/05/15 19:19:26 by alematos         ###   ########.fr       */
+/*   Updated: 2024/05/16 18:47:58 by alematos         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,8 +39,6 @@ static	char *read_line(int fd,char *str)
 
 char	*get_next_line(int fd)
 {
-
-
-
+	
 }
 
